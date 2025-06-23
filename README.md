@@ -38,6 +38,7 @@ There are two main purposes of the app. The first is to communicate with a medic
 ## Download via QR Code
 
 Scan the QR code below to download the APK file:
+
 ![QR Code] (https://github.com/amaliesteen/Bracelet-fall-detector/blob/main/QR.png)
 
 ## Dependencies
