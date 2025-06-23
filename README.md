@@ -41,6 +41,9 @@ Scan the QR code below to download the APK file:
 
 ![QR Code] (https://github.com/amaliesteen/Bracelet-fall-detector/blob/main/QR.png)
 
+If you prefer not to use the QR code, you can download the APK directly here:  
+[Download APK] (https://github.com/amaliesteen/Bracelet-fall-detector/releases/download/v1.0.0/app-release.apk)
+
 ## Dependencies
 
 - react-native-ble-plx
