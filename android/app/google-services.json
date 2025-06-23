@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859263661691",
+    "project_id": "fall-detector-bracelet",
+    "storage_bucket": "fall-detector-bracelet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859263661691:android:a478ee7292f66f097994de",
+        "android_client_info": {
+          "package_name": "com.mynewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUz9TLQyISEePqi1jchXNU4MvQaMLlpCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
